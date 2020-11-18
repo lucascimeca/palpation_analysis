@@ -1,8 +1,0 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: palpation_manuscript - MARKED.aux
-The style file: spbasic.bst
-Database file #1: IEEEexample.bib
-`journal' is a missing field, not a string, for entry fumiya_2016
-while executing---line 1649 of file spbasic.bst
-Warning--empty journal in fumiya_2016
-Warning--empty booktitle in scimecasoft
-(There was 1 error message)
