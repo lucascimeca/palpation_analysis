@@ -1,0 +1,121 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\normalfont{#1}}
+\providecommand{\urlprefix}{Available from: }
+
+\bibitem{dahiya_tactile_2010}
+Dahiya~R, Metta~G, Valle~M, et~al. Tactile sensing-from humans to humanoids.
+  IEEE Trans on Robotics. 2010;\hspace{0pt}26(1):1--20.
+
+\bibitem{drimus2014design}
+Drimus~A, Kootstra~G, Bilberg~A, et~al. Design of a flexible tactile sensor for
+  classification of rigid and deformable objects. Robotics and Autonomous
+  Systems. 2014;\hspace{0pt}62(1):3--15.
+
+\bibitem{scimecasoft}
+Scimeca~L, Maiolino~P, Iida~F. Soft morphological processing of tactile stimuli
+  for autonomous category formation. IEEE International Conference on Soft
+  Robotics, Robosoft; 2018.
+
+\bibitem{fumiya_2016}
+Iida~F, Nurzaman~S. Adaptation of sensor morphology: An integrative view of
+  perception from biologically inspired robotics perspective. 2016
+  08;\hspace{0pt}6:20160016.
+
+\bibitem{palpation1}
+Bendtsen~L, Jensen~R, Jensen~N, et~al. Pressure-controlled palpation: a new
+  technique which increases the reliability of manual palpation. Cephalalgia.
+  1995;\hspace{0pt}15(3):205--210.
+
+\bibitem{palpation2}
+Eberman~LE, Finn~ME. Enhancing clinical evaluation skills: Palpation as the
+  principal skill. Athletic Training Education Journal.
+  2010;\hspace{0pt}5(4):170--175.
+
+\bibitem{palpation3}
+Wang~N, Gerling~GJ, Childress~RM, et~al. Quantifying palpation techniques in
+  relation to performance in a clinical prostate exam. IEEE Transactions on
+  Information Technology in Biomedicine. 2010;\hspace{0pt}14(4):1088--1097.
+
+\bibitem{Liza2014}
+Konstantinova~J, Jiang~A, Althoefer~K, et~al. Implementation of tactile sensing
+  for palpation in robot-assisted minimally invasive surgery: A review. IEEE
+  Sensors Journal. 2014;\hspace{0pt}14(8):2490--2501.
+
+\bibitem{Liza2014behavioral}
+Konstantinova~J, Li~M, Mehra~G, et~al. Behavioral characteristics of manual
+  palpation to localize hard nodules in soft tissues. IEEE Transactions on
+  Biomedical Engineering. 2014;\hspace{0pt}61(6):1651--1659.
+
+\bibitem{sornkarn2016efficacy}
+Sornkarn~N, Nanayakkara~T. The efficacy of interaction behavior and internal
+  stiffness control for embodied information gain in haptic perception. In:
+  Robotics and Automation (ICRA), 2016 IEEE International Conference on; IEEE;
+  2016. p. 2657--2662.
+
+\bibitem{yen2003palpation}
+Yen~PL. Palpation sensitivity analysis of exploring hard objects under soft
+  tissue. In: Advanced Intelligent Mechatronics, 2003. AIM 2003. Proceedings.
+  2003 IEEE/ASME International Conference on; Vol.~2; IEEE; 2003. p.
+  1102--1106.
+
+\bibitem{konstantinova2017palpation}
+Konstantinova~J, Cotugno~G, Dasgupta~P, et~al. Palpation force modulation
+  strategies to identify hard regions in soft tissue organs. PloS one.
+  2017;\hspace{0pt}12(2):e0171706.
+
+\bibitem{pfeifer1997}
+Pfeifer~R, Scheier~C. Sensory—motor coordination: The metaphor and beyond.
+  Robotics and autonomous systems. 1997;\hspace{0pt}20(2-4):157--178.
+
+\bibitem{hoffmann2012implications}
+Hoffmann~M, Pfeifer~R. The implications of embodiment for behavior and
+  cognition: animal and robotic case studies. arXiv preprint arXiv:12020440.
+  2012;\hspace{0pt}.
+
+\bibitem{nolfi2002active}
+Nolfi~S, Marocco~D. Active perception: A sensorimotor account of object
+  categorization. In: From animals to animats 7: Proceedings of the VII
+  international conference on simulation of adaptive behavior; et al.,
+  Cambridge, MA; 2002. p. 266--271.
+
+\bibitem{tuci2009dynamics}
+Tuci~E, Massera~G, Nolfi~S. On the dynamics of active categorisation of
+  different objects shape through tactile sensors. In: European Conference on
+  Artificial Life; Springer; 2009. p. 124--131.
+
+\bibitem{lungarella2005methods}
+Lungarella~M, Pegors~T, Bulwinkle~D, et~al. Methods for quantifying the
+  informational structure of sensory and motor data. Neuroinformatics.
+  2005;\hspace{0pt}3(3):243--262.
+
+\bibitem{sporns2006evolving}
+Sporns~O, Lungarella~M. Evolving coordinated behavior by maximizing information
+  structure. In: Artificial life X: proceedings of the tenth international
+  conference on the simulation and synthesis of living systems; Vol.~10;
+  Citeseer; 2006. p. 323.
+
+\bibitem{pfeifer2007information}
+Pfeifer~R, Lungarella~M, Sporns~O, et~al. On the information theoretic
+  implications of embodiment--principles and methods. In: 50 years of
+  artificial intelligence. Springer; 2007. p. 76--86.
+
+\bibitem{tipping_probabilistic_1999}
+Tipping~ME, Bishop~CM. Probabilistic principal component analysis. Journal of
+  the Royal Statistical Society: Series B (Statistical Methodology). 1999
+  Jan;\hspace{0pt}61(3):611--622.
+
+\bibitem{lloyd_least_1982}
+Lloyd~S. Least squares quantization in pcm. IEEE Trans Inform Theory.
+  1982;\hspace{0pt}28(2):129--137.
+
+\bibitem{schmitz_methods_2011}
+Schmitz~A, Maiolino~P, Maggiali~M, et~al. Methods and {Technologies} for the
+  {Implementation} of {Large}-{Scale} {Robot} {Tactile} {Sensors}. IEEE Trans
+  on Robotics. 2011 Jun;\hspace{0pt}27(3):389--400.
+
+\bibitem{rousseeuw1987silhouettes}
+Rousseeuw~PJ. Silhouettes: a graphical aid to the interpretation and validation
+  of cluster analysis. Journal of computational and applied mathematics.
+  1987;\hspace{0pt}20:53--65.
+
+\end{thebibliography}

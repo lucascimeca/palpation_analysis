@@ -1,0 +1,12 @@
+\begin{figure}
+\centering
+\subfloat[An example of an individual figure sub-caption.]{%
+\resizebox*{5cm}{!}{\includegraphics{graph1.eps}}}\hspace{5pt}
+\subfloat[A slightly shorter sub-caption.]{%
+\resizebox*{5cm}{!}{\includegraphics{graph2.eps}}}
+\caption{Example of a two-part figure with individual sub-captions
+ showing that captions are flush left and justified if greater
+ than one line of text.} \label{sample-figure}
+\end{figure}
+\efloatseparator
+ 

@@ -1,0 +1,223 @@
+\begin{thebibliography}{39}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Bendtsen et~al.(1995)Bendtsen, Jensen, Jensen, and
+  Olesen}]{palpation1}
+Bendtsen L, Jensen R, Jensen N, Olesen J (1995) Pressure-controlled palpation:
+  a new technique which increases the reliability of manual palpation.
+  Cephalalgia 15(3):205--210
+
+\bibitem[{Bohg et~al.(2017)Bohg, Hausman, Sankaran, Brock, Kragic, Schaal, and
+  Sukhatme}]{bohg2017interactive}
+Bohg J, Hausman K, Sankaran B, Brock O, Kragic D, Schaal S, Sukhatme GS (2017)
+  Interactive perception: Leveraging action in perception and perception in
+  action. IEEE Transactions on Robotics 33(6):1273--1291
+
+\bibitem[{Cortes and Vapnik(1995)}]{cortes1995support}
+Cortes C, Vapnik V (1995) Support-vector networks. Machine learning
+  20(3):273--297
+
+\bibitem[{Dahiya et~al.(2010)Dahiya, Metta, Valle, and
+  Sandini}]{dahiya_tactile_2010}
+Dahiya R, Metta G, Valle M, Sandini G (2010) Tactile sensing-from humans to
+  humanoids. IEEE Trans on Robotics 26(1):1--20
+
+\bibitem[{Dario and Bergamasco(1988)}]{dario1988advanced}
+Dario P, Bergamasco M (1988) An advanced robot system for automated diagnostic
+  tasks through palpation. IEEE Transactions on Biomedical Engineering
+  35(2):118--126
+
+\bibitem[{Davaria et~al.(2014)Davaria, Najafi, Mahjoob, and
+  Motahari-Bidgoli}]{davaria2014design}
+Davaria S, Najafi F, Mahjoob M, Motahari-Bidgoli S (2014) Design and
+  fabrication of a robotic tactile device for abdominal palpation. In: 2014
+  Second RSI/ISM International Conference on Robotics and Mechatronics (ICRoM),
+  IEEE, pp 339--344
+
+\bibitem[{Drimus et~al.(2014)Drimus, Kootstra, Bilberg, and
+  Kragic}]{drimus2014design}
+Drimus A, Kootstra G, Bilberg A, Kragic D (2014) Design of a flexible tactile
+  sensor for classification of rigid and deformable objects. Robotics and
+  Autonomous Systems 62(1):3--15
+
+\bibitem[{Eberman and Finn(2010)}]{palpation2}
+Eberman LE, Finn ME (2010) Enhancing clinical evaluation skills: Palpation as
+  the principal skill. Athletic Training Education Journal 5(4):170--175
+
+\bibitem[{Gwilliam et~al.(2010)Gwilliam, Pezzementi, Jantho, Okamura, and
+  Hsiao}]{gwilliam2010human}
+Gwilliam JC, Pezzementi Z, Jantho E, Okamura AM, Hsiao S (2010) Human vs.
+  robotic tactile sensing: Detecting lumps in soft tissue. In: 2010 IEEE
+  Haptics Symposium, IEEE, pp 21--28
+
+\bibitem[{Herzig et~al.(2018)Herzig, Maiolino, Iida, and
+  Nanayakkara}]{herzig2018variable}
+Herzig N, Maiolino P, Iida F, Nanayakkara T (2018) A variable stiffness robotic
+  probe for soft tissue palpation. IEEE Robotics and Automation Letters
+  3(2):1168--1175
+
+\bibitem[{Hoffmann and Pfeifer(2012)}]{hoffmann2012implications}
+Hoffmann M, Pfeifer R (2012) The implications of embodiment for behavior and
+  cognition: animal and robotic case studies. arXiv preprint arXiv:12020440
+
+\bibitem[{Hui and Kuchenbecker(2014)}]{hui2014evaluating}
+Hui JC, Kuchenbecker KJ (2014) Evaluating the biotac’s ability to detect and
+  characterize lumps in simulated tissue. In: International Conference on Human
+  Haptic Sensing and Touch Enabled Computer Applications, Springer, pp 295--302
+
+\bibitem[{Hui et~al.(2016)Hui, Block, Taylor, and Kuchenbecker}]{hui2016robust}
+Hui JC, Block AE, Taylor CJ, Kuchenbecker KJ (2016) Robust tactile perception
+  of artificial tumors using pairwise comparisons of sensor array readings. In:
+  2016 IEEE Haptics Symposium (HAPTICS), IEEE, pp 305--312
+
+\bibitem[{Iida and Nurzaman(2016)}]{fumiya_2016}
+Iida F, Nurzaman S (2016) Adaptation of sensor morphology: An integrative view
+  of perception from biologically inspired robotics perspective 6:20160016
+
+\bibitem[{Kato et~al.(1988)Kato, Koganezawa, and Takanishi}]{kato1988automatic}
+Kato I, Koganezawa K, Takanishi A (1988) Automatic breast cancer palpation
+  robot: Wapro-4. Advanced robotics 3(4):251--261
+
+\bibitem[{Konstantinova et~al.(2014{\natexlab{a}})Konstantinova, Jiang,
+  Althoefer, Dasgupta, and Nanayakkara}]{Liza2014}
+Konstantinova J, Jiang A, Althoefer K, Dasgupta P, Nanayakkara T
+  (2014{\natexlab{a}}) Implementation of tactile sensing for palpation in
+  robot-assisted minimally invasive surgery: A review. IEEE Sensors Journal
+  14(8):2490--2501
+
+\bibitem[{Konstantinova et~al.(2014{\natexlab{b}})Konstantinova, Li, Mehra,
+  Dasgupta, Althoefer, and Nanayakkara}]{Liza2014behavioral}
+Konstantinova J, Li M, Mehra G, Dasgupta P, Althoefer K, Nanayakkara T
+  (2014{\natexlab{b}}) Behavioral characteristics of manual palpation to
+  localize hard nodules in soft tissues. IEEE Transactions on Biomedical
+  Engineering 61(6):1651--1659
+
+\bibitem[{Konstantinova et~al.(2017)Konstantinova, Cotugno, Dasgupta,
+  Althoefer, and Nanayakkara}]{konstantinova2017palpation}
+Konstantinova J, Cotugno G, Dasgupta P, Althoefer K, Nanayakkara T (2017)
+  Palpation force modulation strategies to identify hard regions in soft tissue
+  organs. PloS one 12(2):e0171706
+
+\bibitem[{Li et~al.(2017)Li, Shi, Fontecchio, and Visell}]{li2017mechanical}
+Li B, Shi Y, Fontecchio A, Visell Y (2017) Mechanical imaging of soft tissues
+  with a highly compliant tactile sensing array. IEEE Transactions on
+  Biomedical Engineering 65(3):687--697
+
+\bibitem[{Lloyd(1982)}]{lloyd_least_1982}
+Lloyd S (1982) Least squares quantization in pcm. IEEE Trans Inform Theory
+  28(2):129--137, \doi{10.1109/TIT.1982.1056489}
+
+\bibitem[{Lungarella et~al.(2003)Lungarella, Metta, Pfeifer, and
+  Sandini}]{lungarella2003developmental}
+Lungarella M, Metta G, Pfeifer R, Sandini G (2003) Developmental robotics: a
+  survey. Connection science 15(4):151--190
+
+\bibitem[{Lungarella et~al.(2005)Lungarella, Pegors, Bulwinkle, and
+  Sporns}]{lungarella2005methods}
+Lungarella M, Pegors T, Bulwinkle D, Sporns O (2005) Methods for quantifying
+  the informational structure of sensory and motor data. Neuroinformatics
+  3(3):243--262
+
+\bibitem[{McLaughlin et~al.(2002)McLaughlin, Hespanha, and
+  Sukhatme}]{mclaughlin2002introduction}
+McLaughlin ML, Hespanha JP, Sukhatme GS (2002) Introduction to haptics
+
+\bibitem[{Nolfi and Marocco(2002)}]{nolfi2002active}
+Nolfi S, Marocco D (2002) Active perception: A sensorimotor account of object
+  categorization. In: From animals to animats 7: Proceedings of the VII
+  international conference on simulation of adaptive behavior, et al.,
+  Cambridge, MA, pp 266--271
+
+\bibitem[{Olsson et~al.(2004)Olsson, Nehaniv, and Polani}]{olsson2004sensory}
+Olsson L, Nehaniv CL, Polani D (2004) Sensory channel grouping and structure
+  from uninterpreted sensor data. In: Evolvable Hardware, 2004. Proceedings.
+  2004 NASA/DoD Conference on, IEEE, pp 153--160
+
+\bibitem[{Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel,
+  Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay}]{scikit-learn}
+Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M,
+  Prettenhofer P, Weiss R, Dubourg V, Vanderplas J, Passos A, Cournapeau D,
+  Brucher M, Perrot M, Duchesnay E (2011) Scikit-learn: Machine learning in
+  {P}ython. Journal of Machine Learning Research 12:2825--2830
+
+\bibitem[{Pfeifer and Scheier(1997)}]{pfeifer1997}
+Pfeifer R, Scheier C (1997) Sensory—motor coordination: The metaphor and
+  beyond. Robotics and autonomous systems 20(2-4):157--178
+
+\bibitem[{Pfeifer et~al.(2007)Pfeifer, Lungarella, Sporns, and
+  Kuniyoshi}]{pfeifer2007information}
+Pfeifer R, Lungarella M, Sporns O, Kuniyoshi Y (2007) On the information
+  theoretic implications of embodiment--principles and methods. In: 50 years of
+  artificial intelligence, Springer, pp 76--86
+
+\bibitem[{Puangmali et~al.(2008)Puangmali, Althoefer, Seneviratne, Murphy, and
+  Dasgupta}]{puangmali2008state}
+Puangmali P, Althoefer K, Seneviratne L, Murphy D, Dasgupta P (2008)
+  State-of-the-art in force and tactile sensing for minimally invasive surgery.
+  IEEE Sensors Journal 4(8):371--381
+
+\bibitem[{Rousseeuw(1987)}]{rousseeuw1987silhouettes}
+Rousseeuw PJ (1987) Silhouettes: a graphical aid to the interpretation and
+  validation of cluster analysis. Journal of computational and applied
+  mathematics 20:53--65
+
+\bibitem[{Schmitz et~al.(2011)Schmitz, Maiolino, Maggiali, Natale, Cannata, and
+  Metta}]{schmitz_methods_2011}
+Schmitz A, Maiolino P, Maggiali M, Natale L, Cannata G, Metta G (2011) Methods
+  and {Technologies} for the {Implementation} of {Large}-{Scale} {Robot}
+  {Tactile} {Sensors}. IEEE Trans on Robotics 27(3):389--400,
+  \doi{10.1109/TRO.2011.2132930}
+
+\bibitem[{Scimeca et~al.(2018)Scimeca, Maiolino, and Iida}]{scimecasoft}
+Scimeca L, Maiolino P, Iida F (2018) Soft morphological processing of tactile
+  stimuli for autonomous category formation. IEEE International Conference on
+  Soft Robotics, Robosoft
+
+\bibitem[{Sornkarn and Nanayakkara(2016)}]{sornkarn2016efficacy}
+Sornkarn N, Nanayakkara T (2016) The efficacy of interaction behavior and
+  internal stiffness control for embodied information gain in haptic
+  perception. In: Robotics and Automation (ICRA), 2016 IEEE International
+  Conference on, IEEE, pp 2657--2662
+
+\bibitem[{Sporns and Lungarella(2006)}]{sporns2006evolving}
+Sporns O, Lungarella M (2006) Evolving coordinated behavior by maximizing
+  information structure. In: Artificial life X: proceedings of the tenth
+  international conference on the simulation and synthesis of living systems,
+  Citeseer, vol~10, p 323
+
+\bibitem[{Tipping and Bishop(1999)}]{tipping_probabilistic_1999}
+Tipping ME, Bishop CM (1999) Probabilistic principal component analysis.
+  Journal of the Royal Statistical Society: Series B (Statistical Methodology)
+  61(3):611--622, \doi{10.1111/1467-9868.00196}
+
+\bibitem[{Trejos et~al.(2009)Trejos, Jayender, Perri, Naish, Patel, and
+  Malthaner}]{trejos2009robot}
+Trejos AL, Jayender J, Perri M, Naish MD, Patel RV, Malthaner R (2009)
+  Robot-assisted tactile sensing for minimally invasive tumor localization. The
+  International Journal of Robotics Research 28(9):1118--1133
+
+\bibitem[{Tuci et~al.(2009)Tuci, Massera, and Nolfi}]{tuci2009dynamics}
+Tuci E, Massera G, Nolfi S (2009) On the dynamics of active categorisation of
+  different objects shape through tactile sensors. In: European Conference on
+  Artificial Life, Springer, pp 124--131
+
+\bibitem[{Wang et~al.(2010)Wang, Gerling, Childress, and Martin}]{palpation3}
+Wang N, Gerling GJ, Childress RM, Martin ML (2010) Quantifying palpation
+  techniques in relation to performance in a clinical prostate exam. IEEE
+  Transactions on Information Technology in Biomedicine 14(4):1088--1097
+
+\bibitem[{Yen(2003)}]{yen2003palpation}
+Yen PL (2003) Palpation sensitivity analysis of exploring hard objects under
+  soft tissue. In: Advanced Intelligent Mechatronics, 2003. AIM 2003.
+  Proceedings. 2003 IEEE/ASME International Conference on, IEEE, vol~2, pp
+  1102--1106
+
+\end{thebibliography}
