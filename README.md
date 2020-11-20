@@ -9,4 +9,4 @@ This repository contains code and data for the article "Motor-Induced Structurin
 
 All code in the project is contained in the "src" folder. The tactile data is contained in the "data" folder. 
 
-For more information please visit https://lucascimeca.github.io/ , and read the corresponding published manuscript.
+For more information please visit https://lucascimeca.com/, and read the corresponding published manuscript.
